@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+About Me<br><br>I’m a cybersecurity student and aspiring penetration tester focused on network security, web application security, and building a strong hands-on skillset through real labs and projects. My goal is to become a professional pentester who can identify, exploit, and report vulnerabilities with precision.<br><br>I'm currently working on<br><br>Setting up virtualized pentesting environments (DVWA, Metasploitable, vulnerable VMs)<br><br>Practicing web app and network exploitation techniques<br><br>Strengthening my fundamentals in Linux, networking, and scripting<br><br>My internship project: securing an OT industrial network backbone (IEC 62443 concepts)<br><br>👯 I'm looking to collaborate on<br><br>Pentesting projects and capture-the-flag challenges<br><br>Open-source security tools or scripts<br><br>Write-ups, labs, and security research<br><br>Web and network vulnerability testing labs<br><br>🤝 I'm looking for help with<br><br>Advanced exploitation techniques<br><br>Building a strong pentesting portfolio for internships<br><br>Improving my methodology for reconnaissance → scanning → exploitation → reporting<br><br>WiFi security testing and offensive wireless techniques<br><br>🌱 I'm currently learning<br><br>Ethical hacking & penetration testing methodologies<br><br>OT/ICS security (IEC 62443)<br><br>Python scripting for automation in pentesting<br><br>Web security vulnerabilities (OWASP Top 10)<br><br>Network security fundamentals<br><br>💬 Ask me about<br><br>Setting up pentesting labs<br><br>Web application security basics<br><br>Reconnaissance and scanning techniques<br><br>Tools like Burp Suite, Nmap, Metasploit, and Wireshark<br><br>⚡ Fun fact<br><br>I can spend hours trying to exploit one vulnerability — I enjoy the challenge more than the result.🔭 I’m currently working on<br><br><br><br>
 
-<!--
-**tribalx1/tribalx1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=tribalx1&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=tribalx1&theme=shadow_red&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tribalx1&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=tribalx1&theme=shadow_red&no-frame=true&no-bg=true&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=tribalx1&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
